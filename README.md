@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay100125
-- 👀 I’m interested in :- Web-technologies,AI
-- 🌱 I’m currently learning :- Google Cloud
+- 👀 I’m interested in :- Machine-learning,AI
+- 🌱 I’m currently learning :- Web-technologies
 - 📫 How to reach me 📧 jaypatel100125@gmail.com
 
 <!---
